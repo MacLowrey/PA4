@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		FCA20CF91BFAA22E00A7710A /* PA4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PA4; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCA20CFC1BFAA22E00A7710A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		FCA20D031BFAA24900A7710A /* dijkstra.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dijkstra.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				FCA20CFC1BFAA22E00A7710A /* main.cpp */,
+				FCA20D031BFAA24900A7710A /* dijkstra.h */,
 			);
 			path = PA4;
 			sourceTree = "<group>";

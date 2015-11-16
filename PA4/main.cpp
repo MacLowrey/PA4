@@ -7,6 +7,7 @@
 //
 
 #include <iostream>
+#include "dijkstra.h"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
